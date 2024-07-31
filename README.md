@@ -1,7 +1,3 @@
-Sure, I can help you create a README file for your GitHub repository. Here is a template that you can use and customize as needed:
-
----
-
 # PG LIFE
 
 Welcome to the PG LIFE repository! This project aims to provide a comprehensive platform for managing PG (Paying Guest) accommodations, making it easier for students and working professionals to find and manage their living arrangements.
@@ -76,7 +72,3 @@ If you have any questions or suggestions, feel free to reach out to:
 - **Ankit Gupta** - [ankitguptabk](https://github.com/ankitguptabk)
 
 Thank you for using PG LIFE!
-
----
-
-You can copy this template into a `README.md` file in your repository. Feel free to adjust any sections to better fit your project's specifics.
