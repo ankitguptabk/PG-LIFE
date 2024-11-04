@@ -4,14 +4,14 @@
 Welcome to the PG LIFE repository! This project aims to provide a comprehensive platform for managing PG (Paying Guest) accommodations, making it easier for students and working professionals to find and manage their living arrangements.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+Introduction
+Features
+Installation
+Usage
+Contributing
+License
+Contact
+The web app is also available at https://pglifestyle.wuaze.com/
 ## Introduction
 PG LIFE is designed to simplify the process of finding and managing PG accommodations. Whether you're a student, a working professional, or a PG owner, this platform provides the tools you need to make the process smooth and efficient.
 
