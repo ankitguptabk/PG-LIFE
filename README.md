@@ -29,21 +29,22 @@ To run this project locally, follow these steps:
 1. *Clone the repository*:
    bash
    git clone https://github.com/ankitguptabk/PG-LIFE
+   
    cd PGLIFE
    
 
-2. *Set up XAMPP*:
+3. *Set up XAMPP*:
    - Install [XAMPP](https://www.apachefriends.org/) if you haven’t already.
    - Start *Apache* and *MySQL* from the XAMPP control panel.
 
-3. *Move the project to the htdocs folder*:
+4. *Move the project to the htdocs folder*:
    - Place the PGLIFE project folder in C:\xampp\htdocs\.
 
-4. *Set up the Database*:
+5. *Set up the Database*:
    - Open phpMyAdmin by going to http://localhost/phpmyadmin.
    - Create a new database (e.g., pglife_db) and import your SQL file to set up tables and data.
 
-5. *Access the Project*:
+6. *Access the Project*:
    - Open your browser and go to http://localhost/PGLIFE to view the application locally.
 
 ## Usage
