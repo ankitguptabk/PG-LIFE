@@ -11,7 +11,7 @@ Usage
 Contributing
 License
 Contact
-The web app is also available at https://pglifestyle.wuaze.com/
+
 ## Introduction
 PG LIFE is designed to simplify the process of finding and managing PG accommodations. Whether you're a student, a working professional, or a PG owner, this platform provides the tools you need to make the process smooth and efficient.
 
@@ -46,8 +46,12 @@ To run this project locally, follow these steps:
    npm start
    ```
 
+
 ## Usage
 After completing the installation steps, open your browser and navigate to `http://localhost:3000` to start using the platform. You can register as a new user, browse PG listings, make bookings, and much more.
+The web app is also available at https://pglifestyle.wuaze.com/
+
+
 
 ## Contributing
 We welcome contributions to PG LIFE! To contribute, please follow these steps:
